@@ -1,0 +1,7 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">ButtonEditDatePickerDemo</string>
+    <string name="picked_date_format"><xliff:g>%s</xliff:g>-<xliff:g>%s</xliff:g>-<xliff:g>%s</xliff:g></string>
+
+</resources>
+
+
